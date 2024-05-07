@@ -1,0 +1,85 @@
+[{
+        "name": "Quick-math App",
+        "desc": "Quiz app for students to practice their mathematical skills built on android. ",
+        "image": "mathapp",
+        "category": "android",
+        "links": {
+            "view": "https://github.com/vishwjit22154",
+            "code": "https://github.com/vishwjit22154"
+        }
+    },
+
+    {
+        "name": "Weather App (iOS and Android)",
+        "desc": "Real time weather monitoring app built for both users for iphones and android phones.",
+        "image": "weather",
+        "category": "android",
+        "links": {
+            "view": "https://github.com/vishwjit22154/covid-bed-allotment-system",
+            "code": "https://github.com/vishwjit22154/covid-bed-allotment-system"
+        }
+    },
+
+    {
+        "name": "2-D dodge game",
+        "desc": "Developed a 2-D game using openGL functions programmed in C language.",
+        "image": "dodgegame",
+        "category": "android",
+        "links": {
+            "view": "https://github.com/vishwjit22154/Dodge-game",
+            "code": "https://github.com/vishwjit22154/Dodge-game"
+        }
+    },
+    {
+        "name": "Quora for Engineers ",
+        "desc": " Notion of this project is to create a platform for engineers to tackle their academic problems.",
+        "image": "QES",
+        "category": "mern",
+        "links": {
+            "view": "https://eitbit.s3.ap-south-1.amazonaws.com/index.html",
+            "code": "https://github.com/vishwjit22154/Eit-bit?tab=readme-ov-file"
+        }
+    },
+    {
+        "name": "AiMl Breast cancer detection",
+        "desc": "From the data set and AI algorithm we are able to predict the accuracy of abnormalities in the Genes from which we can predict if the person is having or will get breast cancer",
+        "image": "cancer",
+        "category": "mern",
+        "links": {
+            "view": "https://github.com/vishwjit22154/aiml-Breast-cancer",
+            "code": "https://github.com/vishwjit22154/aiml-Breast-cancer"
+        }
+    },
+    {
+        "name": "Outlier Detection based on sensitivity of data",
+        "desc": "Its a research project designed to identify the most suitable algorithm for detection of outliers in datasets that are highly sensitive",
+        "image": "outliers",
+        "category": "mathapp",
+        "links": {
+            "view": "https://github.com/vishwjit22154",
+            "code": "https://github.com/vishwjit22154"
+        }
+    },
+    {
+        "name": "Covid Bed booking system",
+        "desc": " Its full stack project to book beds in hospitals in a city where all the hospitals beds data is managed my hospital admin which provides seemless and transperent interface between patients and hospitals. ",
+        "image": "covid",
+        "category": "mern",
+        "links": {
+            "view": "https://github.com/vishwjit22154",
+            "code": "https://github.com/vishwjit22154"
+        }
+    },
+    {
+        "name": "Eitbit trasfer crypto",
+        "desc": " Deployed global cryptocurrency transaction platform by creating smart contracts using Ethereum's solidity. Its web3.0 webpage and hosted using AWS . ",
+        "image": "eitbit",
+        "category": "lamp",
+        "links": {
+            "view": "https://github.com/vishwjit22154",
+            "code": "https://github.com/vishwjit22154"
+        }
+    }
+
+
+]
